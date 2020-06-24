@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ketan Dhumal</title>
+    <link>https://ketank2.github.io/Test_ketan2/</link>
+    <description>Recent content on Ketan Dhumal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2020 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://ketank2.github.io/Test_ketan2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 6 : Farming Portal </title>
+      <link>https://ketank2.github.io/Test_ketan2/post/chapter-6/</link>
+      <pubDate>Thu, 14 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://ketank2.github.io/Test_ketan2/post/chapter-6/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 5 : Car price prediction </title>
+      <link>https://ketank2.github.io/Test_ketan2/post/chapter-5/</link>
+      <pubDate>Mon, 13 Apr 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://ketank2.github.io/Test_ketan2/post/chapter-5/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 4 : Analyze and predict the Absenteeism in the company </title>
+      <link>https://ketank2.github.io/Test_ketan2/post/chapter-4/</link>
+      <pubDate>Sun, 22 Mar 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://ketank2.github.io/Test_ketan2/post/chapter-4/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 2 : Audiobook Predicting Customer Will buy again or Not</title>
+      <link>https://ketank2.github.io/Test_ketan2/post/chapter-2/</link>
+      <pubDate>Sun, 02 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://ketank2.github.io/Test_ketan2/post/chapter-2/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 1 : Data Science Salary Estimator</title>
+      <link>https://ketank2.github.io/Test_ketan2/post/chapter-1/</link>
+      <pubDate>Thu, 09 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ketank2.github.io/Test_ketan2/post/chapter-1/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 3 : Movie recommendation system </title>
+      <link>https://ketank2.github.io/Test_ketan2/post/chapter-3/</link>
+      <pubDate>Sat, 11 Mar 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://ketank2.github.io/Test_ketan2/post/chapter-3/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ketank2.github.io/Test_ketan2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ketank2.github.io/Test_ketan2/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Email : Ketandhoom@gmail.com   Website: https://www.playingnumbers.com   Instagram : https://www.instagram.com/dhumal_ketan02/   LinkedIn: https://www.linkedin.com/in/ketan-dhumal-884414180/   GitHub: https://github.com/KeTaNK2    </description>
+    </item>
+    
+  </channel>
+</rss>
